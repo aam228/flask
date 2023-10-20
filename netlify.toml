@@ -3,4 +3,4 @@
   publish = "static"  # Sesuaikan dengan lokasi berkas statis di dalam proyek
 
 [build.environment]
-  PYTHON_VERSION = "3.11.5"  # Sesuaikan dengan versi Python yang Anda gunakan
+PYTHON_VERSION = "3.7"
