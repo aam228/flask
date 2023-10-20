@@ -1,0 +1,6 @@
+[build]
+  command = "python todo.py"  # Sesuaikan dengan nama berkas aplikasi Flask Anda
+  publish = "static"  # Sesuaikan dengan lokasi berkas statis di dalam proyek
+
+[build.environment]
+  PYTHON_VERSION = "3.11.5"  # Sesuaikan dengan versi Python yang Anda gunakan
