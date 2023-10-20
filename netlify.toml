@@ -1,6 +1,6 @@
 [build]
   command = "python todo.py"  # Sesuaikan dengan nama berkas aplikasi Flask Anda
-  publish = "C:\Users\aamss_9izqos3\OneDrive\Desktop\kontak\static\style.css"  # Sesuaikan dengan lokasi berkas statis di dalam proyek
+  publish = "\static\style.css"  # Sesuaikan dengan lokasi berkas statis di dalam proyek
 
 [build.environment]
 PYTHON_VERSION = "3.7"
